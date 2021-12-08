@@ -5,6 +5,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-void converting();
+void converting(); //declaration of converting function 
 
 #endif

@@ -4,6 +4,6 @@
 #include <stdio.h>
 #include <string.h>
 
-void tokenizing();
+void tokenizing(); ////declaration of tokenizing function 
 
 #endif

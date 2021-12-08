@@ -4,6 +4,6 @@
 #include <stdio.h>
 #include <string.h>
 
-void manipulating();
+void manipulating(); //declaration of manipulating function 
 
 #endif

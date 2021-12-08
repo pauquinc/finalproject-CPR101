@@ -5,9 +5,9 @@
 #include "tokenizing.h"
 
 int main() {
-	fundamentals();
-	manipulating();
-	converting();
-	tokenizing();
-	return 0;
+	fundamentals(); //call function fundamentals
+	manipulating(); //call function manipulating
+	converting(); //call function converting
+	tokenizing(); //call function tokenizing
+	return 0; //program returns control to OS, exits with value 0
 }
