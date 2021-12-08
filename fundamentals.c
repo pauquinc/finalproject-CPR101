@@ -46,5 +46,22 @@ printf("*** End of Measuring Strings Demo ***\n\n");
 
 
 /* Version 3 */
+printf("*** Start of Copying Strings Demo ***\n");
+char destination[80];
+char source[80];
+destination[0] = '\0';
+printf("Destination string is reset to empty\n");
+printf("Type a source string (q - to quit):\n");
+gets(source);
+while (strcmp(source, "q") != 0)
+{
+    strcpy(destination, source);
+    printf("New destination string is \'%s\':\n", destination);
+    destination[0] = '\0';
+    printf("Destination string is reset to empty\n");
+    printf("Type a source string (q - to quit):\n");
+    gets(source);
+}
+printf("*** End of Copying Strings Demo ***\n\n");
 
 }
