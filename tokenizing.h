@@ -1,3 +1,9 @@
+/*/Member names:
+Kush Patel
+Rupinderjit Kaur
+Satneet Kaur
+Paula Quintero
+*/
 #ifndef _TOKENIZING_H
 #define _TOKENIZING_H
 

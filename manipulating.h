@@ -1,3 +1,9 @@
+/*/Member names:
+Kush Patel
+Rupinderjit Kaur
+Satneet Kaur
+Paula Quintero
+*/
 #ifndef _MANIPULATING_H
 #define _MANIPULATING_H
 

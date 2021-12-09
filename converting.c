@@ -1,3 +1,9 @@
+/* Member names:
+Kush Patel
+Rupinderjit Kaur
+Satneet Kaur
+Paula Quintero
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include "converting.h"
 

@@ -1,3 +1,9 @@
+/*/Member names:
+Kush Patel
+Rupinderjit Kaur
+Satneet Kaur
+Paula Quintero
+*/
 #ifndef _CONVERTING_H
 #define _CONVERTING_H
 
